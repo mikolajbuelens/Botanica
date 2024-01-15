@@ -1,2 +1,2 @@
 # Botanica
-Full porjects 3 repository
+Full projects 3 repository
